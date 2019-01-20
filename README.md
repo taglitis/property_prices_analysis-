@@ -1,4 +1,4 @@
-# Analysis of house sale prices, for King Country during May 2014 and May 2015 was completed. The dataset was downloaded from [Kagel](https://www.kaggle.com/harlfoxem/housesalesprediction). 
+# Analysis of house sale prices, for King County during May 2014 and May 2015 was completed. The dataset was downloaded from [Kagel](https://www.kaggle.com/harlfoxem/housesalesprediction). 
 
 1. Exploratory analysis of the dataset was performed with Python in Jupyter Notebook: 
 
